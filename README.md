@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ddyman/Git%20DevOps%20Practice/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/ddyman/Git%20DevOps%20Practice/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
